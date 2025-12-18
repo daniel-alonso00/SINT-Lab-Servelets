@@ -122,9 +122,9 @@ Reimplementar la **P2** utilizando el patrón de arquitectura **Modelo-Vista-Con
 ├── README.md
 ```
 
-### 🔧 **Instrucciones de acceso a la P2**
+### 🔧 **Instrucciones de acceso a la P3**
 
-   Para acceder al servicio gráfico de la **P2: Servicio de Consulta de Películas**, sigue estos pasos:
+   Para acceder al servicio gráfico de la **P3: Servicio de Consulta de Películas**, sigue estos pasos:
 
    1. **Compilar el proyecto:**
       - Ejecuta el script correspondiente según tu sistema operativo:
