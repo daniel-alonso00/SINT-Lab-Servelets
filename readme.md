@@ -149,5 +149,3 @@ Reimplementar la **P2** utilizando el patrón de arquitectura **Modelo-Vista-Con
 
 De esta forma, la **P3** está estructurada de manera consistente con la **P2**, omitiendo la API REST, ya que no es parte de esta práctica.
 
----
-🔒 **Este repositorio es parte de las prácticas de la asignatura "Servicios de Internet" y debe ser utilizado únicamente con fines académicos.**
